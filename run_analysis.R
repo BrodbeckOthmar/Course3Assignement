@@ -48,3 +48,4 @@ result<-cleanedData %>% group_by(subject, activity) %>% summarise_each(funs(mean
 write.table(result, "data_with_means.txt", row.name=FALSE) 
 
 #TestTestTest
+#Test2Test2Test2
