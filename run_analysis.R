@@ -45,8 +45,4 @@ names(cleanedData)<- gsub("-", "_", names(cleanedData))
 #Step5: create a second, independent tidy data set with the average of each variable for each activity and each subject.
 result<-cleanedData %>% group_by(subject, activity) %>% summarise_each(funs(mean))
 #Write 2nd dataset
-write.table(result, "data_with_means.txt", row.name=FALSE) 
-
-#TestTestTest
-#Test2Test2Test2
-#Test3
+write.table(result, "data_with_means.txt", row.name=FALSE)
