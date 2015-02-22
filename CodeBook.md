@@ -15,13 +15,13 @@ The feature names used for the data set can be derifed from the original names a
 
 ## Feature vector variables
 
-Variables '*_mean_*'
+Variables '\*\_mean\_\*'
 
 - Mean value of multiple measurements of the corrrespondig original variable
 - Type: Real number
 - Range: [-1,1]
 		
-Variables '*_std_*'
+Variables '\*\_std\_\*'
 
 - Standard deviation of multiple measurements of the corresponding original variables
 - Type: Real number
@@ -29,12 +29,12 @@ Variables '*_std_*'
 
 Variable 'activity'
 
-- Descriptive name of each subject's activity
+- Descriptive activity names
 - Type: Factor
 - Values: 'WALKING', 'WALKING_UPSTAIRS', 'WALKING_DOWNSTAIRS', 'SITTING', 'STANDING', 'LAYING'
 
 Variable 'subject'
 
-- Identifier, identifying each subject
+- Subject identifier
 - Type: Integer
 - Values: 1:30
