@@ -5,7 +5,7 @@
 The features for this data set are derived from the features of the 'Human Activity Recognition Using Smartphones Dataset Version 1.0' by means of the following steps (s. file 'features_info.txt' of the original data set for information about the variables used on the feature vector): 
 
 1. The training and the test sets are merged to create one data set 
-2. Only the measurements on the mean and standard deviation for each measurement are extracted
+2. Only the measurements on the mean and standard deviation for each measurement are extracted (feature variables containing the string 'mean()' or 'std()')
 3. The average of each variable for each activity and each subject is created
 
 The feature names used for the data set can be derifed from the original names as follows:
