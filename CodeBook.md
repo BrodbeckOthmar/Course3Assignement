@@ -15,13 +15,13 @@ The feature names used for the data set can be derifed from the original names a
 
 ## Feature vector variables
 
-Variables '*_mean'
+Variables '*_mean_*'
 
 - Mean value of multiple measurements of the corrrespondig original variable
 - Type: Real number
 - Range: [-1,1]
 		
-Variables '*_std'
+Variables '*_std_*'
 
 - Standard deviation of multiple measurements of the corresponding original variables
 - Type: Real number
