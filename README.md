@@ -1,4 +1,4 @@
-# The R Script 'Run_Analysis.R' (script to the course project of the Coursera course 'Getting and Cleaning Data') 
+# The R Script 'run_analysis.R' (script to the course project of the Coursera course 'Getting and Cleaning Data') 
 
 ## Purpose and Context
 The run_analysis.R script reads data from the 'Human Activity Recognition Using Smartphones Dataset Version 1.0' and produces a new - tidy - data set which may be used for further analysis.
