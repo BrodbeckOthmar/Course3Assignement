@@ -11,7 +11,7 @@ The features for this data set are derived from the features of the 'Human Activ
 The feature names used for the data set can be derifed from the original names as follows:
 
 1. '-' is replaced by '_'
-2. 'mean()', 'std()' is replaced by 'mean', 'std', respectively
+2. 'mean()' and 'std()' is replaced by 'mean' and 'std', respectively
 
 ## Feature vector variables
 
