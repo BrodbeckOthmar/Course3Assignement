@@ -29,7 +29,7 @@ Variables '\*\_std\_\*'
 
 Variable 'activity'
 
-- Descriptive activity names
+- Descriptive activity name
 - Type: Factor
 - Values: 'WALKING', 'WALKING_UPSTAIRS', 'WALKING_DOWNSTAIRS', 'SITTING', 'STANDING', 'LAYING'
 
